@@ -139,7 +139,7 @@ body {
     margin-bottom: 2em;
 }
 
-.lista__link a{
+.lista__link a {
     color: var(--branco-principal);
     margin: 0 0.6em;
     display: flex;
